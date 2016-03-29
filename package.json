@@ -1,0 +1,23 @@
+{
+  "name": "akyuu-demo",
+  "version": "1.0.0",
+  "description": "Demo for Akyuu.js.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akyuujs/akyuu-demo.git"
+  },
+  "author": "XadillaX <i@2333.moe>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akyuujs/akyuu-demo/issues"
+  },
+  "homepage": "https://github.com/akyuujs/akyuu-demo#readme",
+  "dependencies": {
+    "moment": "~2.12.0",
+    "akyuu": "git+https://github.com/akyuujs/akyuu.git#master"
+  }
+}
